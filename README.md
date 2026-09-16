@@ -73,6 +73,10 @@ Debug token-id mode is still available:
                    --n-generate 20
 ```
 
+## Model file
+
+https://huggingface.co/hugging-quants/Llama-3.2-1B-Instruct-Q4_K_M-GGUF/tree/main
+
 ## Performance
 
 | Chip | Quantization | Model size | Load | Prefill | Decode |
